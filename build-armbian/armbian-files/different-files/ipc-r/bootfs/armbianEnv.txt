@@ -1,6 +1,6 @@
 verbosity=7
 bootlogo=true
-fdtfile=rockchip/rk3588-nvr-demo-v10-android.dtb
+fdtfile=rockchip/rk3588-beelink-ipc-r.dtb
 rootdev=/dev/mmcblk0p2
 rootfstype=btrfs
 rootflags=compress=zstd:6
